@@ -1,0 +1,10 @@
+# Change Log — Module 03 (Plan Builder)
+# Branch: 03_guardrails-debug-v2
+# Last Updated: <YYYY-MM-DD>
+#
+# - Added indoor activity fallback logic for adverse or unknown weather
+# - Added structured JSON format enforcement and validation
+# - Added clearer error states for missing/invalid inputs
+# - Added deterministic seed handling for reproducible plan output
+# - Improved ToD bucket boundaries and timezone normalization notes
+# - Updated candidate ranking to include weather suitability + budget checks
